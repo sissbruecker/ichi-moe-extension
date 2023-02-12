@@ -9,7 +9,7 @@
     ]
   },
   "permissions": [
-    "menus"
+    "contextMenus"
   ],
   "icons": {
     "16": "ichi-16.png",
